@@ -1,0 +1,11 @@
+v 1
+d c_r_ml_stata_cv: ML classification and regression in Stata
+f c_ml_stata_cv.ado
+f c_ml_stata_cv.sthlp
+f r_ml_stata_cv.ado
+f r_ml_stata_cv.sthlp
+f c_ml_stata_default.ado 
+f r_ml_stata_default.ado
+f get_train_test.ado 
+f get_train_test.sthlp 
+f pylearn.ado 
